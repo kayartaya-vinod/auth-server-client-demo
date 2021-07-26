@@ -1,0 +1,13 @@
+GET /api/private/hello?name=John+Doe
+Host: localhost:9999
+Authorization: JWT eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI3Nzg4IiwibmFtZSI6IlZpbm9kIEt1bWFyIiwiaWF0IjoxNTE2MjM5MDIyfQ.TVR91FjfCE1jxXQGNawivcxzRxegucmSxjXW_k1uJ6c
+
+###
+
+GET /api/private/hello?name=John+Doe
+Host: localhost:9999
+
+###
+
+GET /api/public/welcome?name=John+Doe
+Host: localhost:9999

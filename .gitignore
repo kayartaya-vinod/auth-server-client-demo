@@ -1,0 +1,4 @@
+**/.mvn
+**/.settings
+**/.apt_generated_tests
+**/target

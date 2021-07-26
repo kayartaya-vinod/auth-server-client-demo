@@ -1,0 +1,2 @@
+GET /api/auth/verify?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI3Nzg4IiwibmFtZSI6IlZpbm9kIEt1bWFyIiwiaWF0IjoxNTE2MjM5MDIyfQ.TVR91FjfCE1jxXQGNawivcxzRxegucmSxjXW_k1uJ6c
+Host: localhost:8888

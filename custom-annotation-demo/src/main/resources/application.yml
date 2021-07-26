@@ -1,0 +1,8 @@
+server:
+    port: 9999
+
+spring:
+    application:
+        name: custom-annotation-demo
+
+authUrl: http://localhost:8888/api/auth/verify
